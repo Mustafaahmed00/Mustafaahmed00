@@ -1,7 +1,10 @@
-# 💫 About Me:  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBrZXh3NHNrZGF2dGF4Z2w3ZXM4bXNmcGtjMHBucTFsdGhtcjJ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="GIF"/>
+</div>
+
+
+# 💫 About Me: 
 🔭 I’m currently working on developing an app using .NET Framework with C#<br>👯 I’m looking to collaborate on Full stack Projects<br>🌱 I’m currently learning C#, Tableau<br>
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mustxfaaa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mustafa-ahmed002/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x.com/m_ahmed002) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Mohammed-Mustafa-Ahmed) 
