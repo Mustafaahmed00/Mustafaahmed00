@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on developing an app using .NET Framework with C#<br>👯 I’m looking to collaborate on Full stack Projects<br>🌱 I’m currently learning C#, Tableau<br>
+<img align="right" alt="Coding" width="400" src="">
 
 
 ## 🌐 Socials:
