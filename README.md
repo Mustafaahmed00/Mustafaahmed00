@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 💫 About Me:  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 🔭 I’m currently working on developing an app using .NET Framework with C#<br>👯 I’m looking to collaborate on Full stack Projects<br>🌱 I’m currently learning C#, Tableau<br>
-<img align="right" alt="Coding" width="400" src="">
+
 
 
 ## 🌐 Socials:
