@@ -18,7 +18,8 @@ const toolbox = {
     database: "PostgreSQL",
     ai: "Python",
     devOps: ["Git", "Docker"],
-    currentlyLearning: "Always something new! 🤓"
+    currentlyLearning: "Web Scraping usijg Python🕷️"
+"Real time web applications with Web Sockets👨‍💻"
 }
 ```
 
