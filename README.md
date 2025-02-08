@@ -13,8 +13,8 @@ I'm always excited to collaborate on interesting fullstack projects.
 ```javascript
 // My daily companions
 const toolbox = {
-    frontend: ["Next.js", "Vite", "TypeScript", "React"],
-    backend: "Node.js",
+    frontend: ["Next.js", "Vite", "TypeScript", "JavaScript", "React"],
+    backend: "Node.js, Ruby",
     database: "PostgreSQL",
     ai: "Python",
     devOps: ["Git", "Docker"],
