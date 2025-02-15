@@ -98,7 +98,7 @@ Other        2 hrs 2 mins    █░░░░░░░░░░░░░░░░
     </div>
     <div>
       <a href="https://career-ai-bay.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/LIVE-DEMO-9cf?style=for-the-badge&logo=vercel" alt="Live Demo" />
+        <img src="https://img.shields.io/badge/DEMO-9cf?style=for-the-badge&logo=vercel" alt="LiveDemo" />
       </a>
       <a href="https://github.com/Mustafaahmed00/CareerAI" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -118,7 +118,7 @@ Other        2 hrs 2 mins    █░░░░░░░░░░░░░░░░
     </div>
     <div>
       <a href="https://my-word-docs.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/LIVE-DEMO-9cf?style=for-the-badge&logo=vercel" alt="Live Demo" />
+        <img src="https://img.shields.io/badge/DEMO-9cf?style=for-the-badge&logo=vercel" alt="Live Demo" />
       </a>
       <a href="https://github.com/Mustafaahmed00/MyDocs" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -137,7 +137,7 @@ Other        2 hrs 2 mins    █░░░░░░░░░░░░░░░░
     </div>
     <div>
       <a href="https://www.mustafaahmed.me/" target="_blank">
-        <img src="https://img.shields.io/badge/LIVE-DEMO-9cf?style=for-the-badge&logo=vercel" alt="Live Demo" />
+        <img src="https://img.shields.io/badge/DEMO-9cf?style=for-the-badge&logo=vercel" alt="Live Demo" />
       </a>
       <a href="https://github.com/Mustafaahmed00/Personal_Portfolio" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
